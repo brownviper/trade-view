@@ -1,5 +1,5 @@
 # trader-viewer
-an exercise in react/redux
+an exercise in react/redux update
 
 - yarn install
 - yarn test
